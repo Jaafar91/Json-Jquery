@@ -1,0 +1,14 @@
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\bin\MyServiceApi.dll.config
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\bin\MyServiceApi.dll
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\bin\MyServiceApi.pdb
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\bin\Newtonsoft.Json.dll
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\bin\System.Net.Http.Formatting.dll
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\bin\System.Web.Http.dll
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\bin\System.Web.Http.WebHost.dll
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\bin\Newtonsoft.Json.xml
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\bin\System.Net.Http.Formatting.xml
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\bin\System.Web.Http.xml
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\bin\System.Web.Http.WebHost.xml
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\obj\Debug\MyServiceApi.csprojResolveAssemblyReference.cache
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\obj\Debug\MyServiceApi.dll
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\MyServiceApi\obj\Debug\MyServiceApi.pdb

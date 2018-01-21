@@ -1,0 +1,113 @@
+{
+    "html": "index.html",
+    "javascript": "",
+    "style": [
+        {
+            "style1": {
+                "color": "red",
+                "font-size": "12px"
+            }
+        }
+    ],
+    "onLoad": {
+        "prop": {
+            "#fname": {
+                "required": "true"
+            },
+            "#lname": {
+                "required": "true"
+            },
+            "#age": {
+                "required": "true"
+            }
+        },
+        "hide": [ ".help-block" ]
+    },
+    "events": {
+        "#btn1": {
+            "click": {
+                "function": "callMyFunction()",
+                "hide": [ ".help-block" ],
+                "empty": [ ],
+                "show": [ "this" ],
+                "css": {
+                    "this": {
+                        "background-color": "blue",
+                        "font-size": "20px"
+                    },
+                    "#fname": {
+                        "color": "yellow"
+                    },
+                    ".help-block": {
+                        "position": "absolute"
+                    }
+                },
+                "addClass": [
+                    {
+                        "p": "text-center"
+                    }
+                ],
+                "removeClass": [ ],
+                "append": [ { ".help-block": "Hello" } ]
+            },
+            "mousemove": {
+                "css": {
+                    "this": {
+                        "background-color": "red"
+                    }
+                }
+            },
+            "mouseleave": {
+                "css": {
+                    "this": {
+                        "background-color": "grey"
+                    }
+                },
+                "attr": {
+                    "this": {
+                        "style": "color:#005670;"
+                    }
+                }
+            }
+        },
+        "#btn2": {
+            "click": {
+                "show": [ { ".help-block": 3000 } ]
+            }
+        },
+        "#btn3": {
+            "click": {
+                "fadeTo": {
+                    "this": {
+                        "slow": 0.15
+                    }
+                },
+                "animate": [
+                    {
+                        ".help-block": {
+                            "left": "250px",
+                            "opacity": "0.5",
+                            "height": "150px",
+                            "width": "150px"
+                        }
+                    }
+                ]
+            }
+        },
+        "#btn4": {
+            "click": "function"
+        }
+    },
+    "functions": {
+        "myFun()": {
+            "hide": [ "" ]
+        }
+    },
+    "model": {
+        "model1": {
+            "method": "get",
+            "url": "http://localhost:6352/api/user/count",
+            "result": "#myVar"
+        }
+    }
+}

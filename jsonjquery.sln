@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonjquery", "jsonjquery\jsonjquery.csproj", "{A1003CB1-2ADF-4A0A-BEBA-C71006F1EB80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyServiceApi", "MyServiceApi\MyServiceApi.csproj", "{4C9F30C6-8A89-4194-B9CD-B6641ED03CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonJqueryAsp", "JsonJqueryAsp\JsonJqueryAsp.csproj", "{B14A06E9-3978-4008-9638-6A557784706D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1003CB1-2ADF-4A0A-BEBA-C71006F1EB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1003CB1-2ADF-4A0A-BEBA-C71006F1EB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1003CB1-2ADF-4A0A-BEBA-C71006F1EB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1003CB1-2ADF-4A0A-BEBA-C71006F1EB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9F30C6-8A89-4194-B9CD-B6641ED03CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9F30C6-8A89-4194-B9CD-B6641ED03CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9F30C6-8A89-4194-B9CD-B6641ED03CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9F30C6-8A89-4194-B9CD-B6641ED03CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14A06E9-3978-4008-9638-6A557784706D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14A06E9-3978-4008-9638-6A557784706D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14A06E9-3978-4008-9638-6A557784706D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14A06E9-3978-4008-9638-6A557784706D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

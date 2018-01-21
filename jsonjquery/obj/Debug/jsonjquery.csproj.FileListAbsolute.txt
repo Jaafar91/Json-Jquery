@@ -1,0 +1,12 @@
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\bin\Debug\jsonjquery.exe.config
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\bin\Debug\jsonjquery.exe
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\bin\Debug\jsonjquery.pdb
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\bin\Debug\Newtonsoft.Json.dll
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\obj\Debug\jsonjquery.csprojResolveAssemblyReference.cache
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\obj\Debug\jsonjquery.exe
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\obj\Debug\jsonjquery.pdb
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\bin\Debug\jaf.json
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\bin\Debug\index.html
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\bin\Debug\gen.js
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\bin\Debug\jquery.min.js
+D:\MJ Folder\Interests\Algorthims\LINQ Tutorials\Book Applications\Chapter 3\jsonjquery\jsonjquery\bin\Debug\operation.js
